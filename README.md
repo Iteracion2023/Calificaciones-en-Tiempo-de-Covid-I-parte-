@@ -1,4 +1,4 @@
-![Logo](https://github.com/Iteracion2023/Calificaciones-en-Tiempo-de-Covid-I-parte-/commit/bdf4912f219f0cb3a7bbc0563e3ea5eb16f75539)
+![Logo](https://github.com/Iteracion2023/Calificaciones-en-Tiempo-de-Covid-I-parte-/blob/main/LinkedIn%20Cover%20Photo.png)
 
 
 # Calificaciones-en-tiempo-de-Covid
