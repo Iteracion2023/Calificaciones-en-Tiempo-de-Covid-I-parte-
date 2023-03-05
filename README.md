@@ -1,7 +1,7 @@
 ![Logo](https://github.com/Iteracion2023/Calificaciones-en-Tiempo-de-Covid-I-parte-/blob/main/LinkedIn%20Cover%20Photo.png)
 
 
-# Calificaciones-en-tiempo-de-Covid
+<h1>Calificaciones en tiempo de Covid(I parte)</h1>
 
 
 A  pesar de la pandemia, una de las prácticas que los docentes no pudieron dejar de realizar fue evaluar a sus estudiantes. Los medios a través del cual, buscaron verificar los aprendizajes fueron diversos:  : videos; formularios de google, trabajos escritos enviados por e-mail, guías en papel enviadas a las casas y entregadas en el mismo formato en las porterías de los establecimientos. etc. 
